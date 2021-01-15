@@ -10,7 +10,7 @@ The code structure is based on OpenPCDet. The main idea also refers to the paper
 4. OpenPCDet(spconv will not be used)
 5. mmdet3d(if use dynamic voxelization)
 
-# Intallation
+# Installation
 1. clone this repository
 ```
 git clone git@github.com:ge25nab/MultiviewPointpillars.git
