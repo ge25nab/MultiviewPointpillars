@@ -1,0 +1,7 @@
+setup.py
+roi_aware_pool3d.egg-info/PKG-INFO
+roi_aware_pool3d.egg-info/SOURCES.txt
+roi_aware_pool3d.egg-info/dependency_links.txt
+roi_aware_pool3d.egg-info/top_level.txt
+src/roiaware_pool3d.cpp
+src/roiaware_pool3d_kernel.cu

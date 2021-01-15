@@ -1,0 +1,5 @@
+# ninja log v5
+0	1128	1610578111268240663	/home/xingcheng/Workspace/OpenPCDet/pcdet/ops/iou3d_nms/build/temp.linux-x86_64-3.7/src/iou3d_nms_kernel.o	f06b23be34b0a1c7
+0	5729	1610578115868380382	/home/xingcheng/Workspace/OpenPCDet/pcdet/ops/iou3d_nms/build/temp.linux-x86_64-3.7/src/iou3d_cpu.o	b8ff7daf3c96843e
+0	6757	1610578116892411488	/home/xingcheng/Workspace/OpenPCDet/pcdet/ops/iou3d_nms/build/temp.linux-x86_64-3.7/src/iou3d_nms.o	6f346cd7bc79ef07
+0	9795	1610578119928503718	/home/xingcheng/Workspace/OpenPCDet/pcdet/ops/iou3d_nms/build/temp.linux-x86_64-3.7/src/iou3d_nms_api.o	ea5ba611894ca943
